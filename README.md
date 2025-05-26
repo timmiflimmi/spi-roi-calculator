@@ -46,16 +46,17 @@ Der Calculator berücksichtigt:
 - Reduzierte Kapitalbindung
 - Möglichkeit für zusätzliche Aufträge
 
-## 🔧 Installation & Setup
+## 🔧 Installation & Nutzung
 
-### Voraussetzungen
-- Python 3.8+
-- pip Package Manager
+### Web-Version (Empfohlen)
+🌐 **Live Demo:** [https://spi-roi-calculator.streamlit.app](https://spi-roi-calculator.streamlit.app)
 
-### Lokale Installation
+**Zugang:** Passwort-geschützt für SPI Kunden und Partner
+
+### Lokale Installation (Für Entwickler & Partner)
 ```bash
 # Repository klonen
-git clone https://github.com/[username]/spi-roi-calculator.git
+git clone https://github.com/timmiflimmi/spi-roi-calculator.git
 cd spi-roi-calculator
 
 # Virtual Environment erstellen
@@ -70,23 +71,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Web-Version
-🌐 **Live Demo:** [https://spi-roi-calculator.streamlit.app](https://spi-roi-calculator.streamlit.app)
-
-**Zugang:** Passwort-geschützt für SPI Kunden und Partner
+**Lokale Version läuft auf:** `http://localhost:8501`
 
 ## 📊 Screenshots
 
 ### ROI Dashboard
-![ROI Dashboard](assets/dashboard-preview.png)
 *Übersichtliche Darstellung aller wichtigen ROI-Kennzahlen*
 
 ### Cashflow-Analyse  
-![Cashflow Analysis](assets/cashflow-preview.png)
 *3-Jahres-Cashflow-Entwicklung mit Break-Even-Point*
 
 ### Einsparungsdetails
-![Savings Breakdown](assets/savings-preview.png)
 *Detaillierte Aufschlüsselung der Einsparungspotentiale*
 
 ## 🎯 Typische Anwendungsfälle
@@ -146,4 +141,9 @@ Dieses Tool ist ausschließlich für SPI Kunden und Partner bestimmt.
 
 - 🔐 **Password-Protected** für autorisierten Zugang
 - 🛡️ **Keine Datenspeicherung** - alle Berechnungen erfolgen clientseitig
-- 🇩🇪 **DSGVO-konform** - keine personenbezogenen D
+- 🇩🇪 **DSGVO-konform** - keine personenbezogenen Daten erforderlich
+- 🔒 **SSL-verschlüsselt** über HTTPS
+
+---
+
+*Erstellt mit ❤️ von SPI GmbH für die Zukunft der Blechbearbeitung*
