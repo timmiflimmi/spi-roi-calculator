@@ -131,19 +131,19 @@ Haben Sie Ideen für zusätzliche Features? Kontaktieren Sie unser Entwicklungst
 
 ## 📄 Lizenz
 
-© 2024 SPI GmbH. Alle Rechte vorbehalten.
+© 2025 SPI GmbH. Alle Rechte vorbehalten.
 
-Dieses Tool ist ausschließlich für SPI Kunden und Partner bestimmt.
+Dieses Tool ist ausschließlich für SPI Mitarbeitende, Kunden und Partner bestimmt.
 
 ---
 
 ## 🔒 Sicherheit & Datenschutz
 
 - 🔐 **Password-Protected** für autorisierten Zugang
-- 🛡️ **Keine Datenspeicherung** - alle Berechnungen erfolgen clientseitig
-- 🇩🇪 **DSGVO-konform** - keine personenbezogenen Daten erforderlich
+- 🛡️ **Keine persistente Datenspeicherung** - alle Berechnungen erfolgen clientseitig
 - 🔒 **SSL-verschlüsselt** über HTTPS
+- ⚠️ **Hosting:** Streamlit Cloud (US-basiert) - für DSGVO-kritische Anwendungen lokale Installation empfohlen
 
 ---
 
-*Erstellt mit ❤️ von SPI GmbH für die Zukunft der Blechbearbeitung*
+*Erstellt mit ❤️ von SPI GmbH für die Zukunft der Blechbearbeitung - 2025*
