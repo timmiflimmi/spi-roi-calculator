@@ -84,18 +84,6 @@ streamlit run app.py
 ### Einsparungsdetails
 *Detaillierte Aufschlüsselung der Einsparungspotentiale*
 
-## 🎯 Typische Anwendungsfälle
-
-### **Mittelständischer Blechbearbeiter (50 MA)**
-- **Ausgangssituation:** 120 Min Programmierzeit/Teil, 5% Fehlerquote
-- **Nach SPI-Lösung:** 75% Zeitersparnis, 80% weniger Fehler
-- **ROI:** 247% über 3 Jahre, Amortisation in 1.2 Jahren
-
-### **Großbetrieb (200+ MA)**
-- **Komplexere Teile:** Längere Programmierzeiten
-- **Höhere Stückzahlen:** Größere absolute Einsparungen
-- **ROI:** Oft über 300% in 3 Jahren
-
 ## 🏢 Über SPI GmbH
 
 **SPI Systemberatung, Programmierung, Industrieelektronik GmbH** ist seit über 40 Jahren Ihr zuverlässiger Partner für:
